@@ -1,0 +1,5 @@
+git config --global user.name "danka19"
+git config --global user.email "danochka1999@mail.ru"
+git init
+git clone "https://github.com/danka19/WEB"
+
